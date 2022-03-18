@@ -1,0 +1,23 @@
+{
+  "name": "movies_tv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zznash24/movie_tv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zznash24/movie_tv/issues"
+  },
+  "homepage": "https://github.com/zznash24/movie_tv#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
